@@ -112,7 +112,7 @@ li {
   color: #38aef0;
 }
 
-select {
+.select {
   width: 500px;
   height: 50px;
 }
@@ -121,4 +121,8 @@ select {
   background-color: #434a54;
   height: 80px;
   width: 100%;
+}
+
+.field_with_errors {
+  display: contents;
 }
